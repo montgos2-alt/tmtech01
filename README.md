@@ -2,7 +2,7 @@
 
 Official website for **TM Technologies LLC**, offering hands-on technology and AI training for churches, faith-based organizations, and community groups.
 
-🌐 **Visit the site:** https://tmtech01.github.io
+🌐 **Visit the site:** [https://tmtech01.github.io](https://montgos2-alt.github.io/tmtech01/)
 
 ## Signature 2-Hour Workshops
 - AI Made Simple™
