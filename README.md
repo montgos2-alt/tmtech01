@@ -2,7 +2,7 @@
 
 Official website for **TM Technologies LLC**, offering hands-on technology and AI training for churches, faith-based organizations, and community groups.
 
-🌐 **Visit the site:** https://tmtechnologies.github.io
+🌐 **Visit the site:** https://tmtech01.github.io
 
 ## Signature 2-Hour Workshops
 - AI Made Simple™
@@ -11,7 +11,7 @@ Official website for **TM Technologies LLC**, offering hands-on technology and A
 - Digital Discipleship Essentials™
 - Equipping the Saints for the Digital Age™
 
-Workshops start at $250 and are available in person in Southeast Michigan or live on Zoom.
+Workshops start at $250 and are available in person in Southeast Michigan or online via Zoom.
 
 ## Book a Session
 Schedule a workshop directly through the booking calendar on the website.
