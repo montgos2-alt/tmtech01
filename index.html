@@ -82,6 +82,8 @@
   .video-wrap { background: var(--white); border-block: 1px solid var(--line); }
   .video-wrap .intro { margin-bottom: 30px; }
   .video-shell { max-width: 820px; margin-inline: auto; border: 1px solid var(--line); border-top: 4px solid var(--gold); background: #0E1D33; }
+  .video-alt { text-align: center; margin: 14px 0 0; font-size: 15px; }
+  .video-alt a { text-decoration-color: var(--gold); text-underline-offset: 4px; }
   .video-shell video, .video-shell iframe { display: block; width: 100%; aspect-ratio: 16 / 9; border: 0; background: #0E1D33; }
 
   /* steps */
@@ -316,12 +318,16 @@
     const yt = VIDEO.match(/(?:youtu\.be\/|v=|embed\/|shorts\/)([A-Za-z0-9_-]{6,})/);
     if (yt) {
       const f = document.createElement("iframe");
-      f.src = "https://www.youtube-nocookie.com/embed/" + yt[1];
+      f.src = "https://www.youtube.com/embed/" + yt[1] + "?rel=0&playsinline=1";
       f.title = "TM Technologies introduction";
-      f.allow = "accelerometer; encrypted-media; picture-in-picture; fullscreen";
+      f.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen";
+      f.referrerPolicy = "strict-origin-when-cross-origin";
       f.allowFullscreen = true;
-      f.loading = "lazy";
       shell.appendChild(f);
+      const alt = document.createElement("p");
+      alt.className = "video-alt";
+      alt.innerHTML = 'Video not playing? <a href="https://www.youtube.com/watch?v=' + yt[1] + '" target="_blank" rel="noopener">Watch it on YouTube</a>.';
+      shell.after(alt);
     } else {
       const v = document.createElement("video");
       v.src = VIDEO;
