@@ -1,6 +1,6 @@
-# TM Technologies LLC
+# TM Technology LLC
 
-Official website for **TM Technologies LLC**, offering hands-on technology and AI training for churches, faith-based organizations, and community groups.
+Official website for **TM Technology LLC**, offering hands-on technology and AI training for churches, faith-based organizations, and community groups.
 
 🌐 **Visit the site:** https://montgos2-alt.github.io/tmtech01
 
@@ -11,7 +11,7 @@ Official website for **TM Technologies LLC**, offering hands-on technology and A
 - Digital Discipleship Essentials™
 - Equipping the Saints for the Digital Age™
 
-Workshops start at $250 and are available in person in Southeast Michigan or online via Zoom.
+Workshops start at $550 and are available in person in Southeast Michigan or online via Zoom.
 
 ## Book a Session
 Schedule a workshop directly through the booking calendar on the website.
@@ -21,4 +21,4 @@ Schedule a workshop directly through the booking calendar on the website.
 📞 248-688-2893
 
 ---
-© TM Technologies LLC. All rights reserved.
+© TM Technology LLC. All rights reserved.
