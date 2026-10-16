@@ -10,9 +10,9 @@ Official website for **TM Technology LLC**, offering hands-on technology trainin
 - FinTECH for Faith Communities™
 - Digital Discipleship Essentials™
 - Equipping the Saints for the Digital Age™
-
 Workshops start at $550 and are available in person in Southeast Michigan or online via Zoom.
-Book A FREE Digital Stewardship Briefings: Saturdays at 9:00 or 10:00 AM thru December 5th. A Zoom link will be emailed when you book.
+
+SPECIAL OFFER ~ Book A FREE Digital Stewardship Briefings: Saturdays at 9:00 or 10:00 AM thru December 5th. A Zoom link will be emailed when you book.
 
 ## Book a Session
 Schedule a full 2-hour workshop directly through the booking calendar on the website.
